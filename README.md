@@ -1,5 +1,10 @@
 # ShoppingRecipeApp
 
+## Technology Used
+
+[Angular.js](https://angularjs.org/) Front-End Application Framework
+[bootstrap](https://getbootstrap.com/) Front-End Framework
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
