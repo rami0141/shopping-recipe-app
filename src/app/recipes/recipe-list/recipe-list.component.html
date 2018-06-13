@@ -9,6 +9,7 @@
     <!-- Passing data that is in the recipe item component -->
     <app-recipe-item
       *ngFor="let recipeEl of recipes"
-      [recipe]="recipeEl"></app-recipe-item>
+      [recipe]="recipeEl"
+      (recipeSelected)="onRecipeSelected(recipeEl)"></app-recipe-item>
   </div>
 </div>
